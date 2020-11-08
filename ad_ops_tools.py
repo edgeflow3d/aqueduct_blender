@@ -300,7 +300,7 @@ class AD_OT_object_quickplace(Operator):
             context.area.header_text_set(None)
             return {'FINISHED'}
 
-        context.area.header_text_set("QuickPlace | Transform-Offset: {:.2f} | Randomness {:.1f} | E : Toggle Transform Axis ({})".format(
+        context.area.header_text_set("QuickPlace | Transform-Offset: {:.2f} | Randomness {:.1f} | W : Toggle Transform Axis ({})".format(
         self.trans_offset,
         self.randomness / 10,
         self.axis[self.axis_index]
