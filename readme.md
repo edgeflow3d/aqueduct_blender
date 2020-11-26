@@ -1,7 +1,14 @@
 # Aqueduct Blender addon
 This Addon is part of the **Aqueduct Project** it is a collection of workflow
-improving tools for blender. It is best used in conjunction with the **Aqueduct
-Desktop App**.
+improving tools for blender. 
+
+
+![Aqueduct Blender Interop Overview](images/aqueduct_overview_1200x600.png?raw=true)
+**We recommend using the Blender addon in conjunction with the [Aqueduct
+Desktop App](https://github.com/edgeflow3d/aqueduct).**
+
+**You can get the Aqueduct Desktop app here: [Aqueduct Desktop App Releases](https://github.com/edgeflow3d/aqueduct/releases)**
+
 
 For information on the tools this addon provides visit our **Documentation** at:  
 [Read the Docs - Aqueduct Project](https://aqueduct-project.rtfd.io)
