@@ -2,6 +2,7 @@
 This Addon is part of the **Aqueduct Project** it is a collection of workflow
 improving tools for blender. 
 
+**>> Currently we support Blender 2.83 LTS <<**  
 
 ![Aqueduct Blender Interop Overview](images/aqueduct_overview_1200x600.png?raw=true)
 **We recommend using the Blender addon in conjunction with the [Aqueduct
