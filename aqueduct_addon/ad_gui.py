@@ -11,8 +11,8 @@ def make_path_absolute(key):
     sane_path = lambda p: os.path.abspath(bpy.path.abspath(p))
 
     # if key in props and props[key].startswith('//'):
-    if key in props:
-        props[key] = sane_path(props[key])
+    ##if key in props:
+    ##    props[key] = sane_path(props[key])
 
 class AD_UL_ListItem(PropertyGroup):
     """ Propertygroup holding info for filelist items """
