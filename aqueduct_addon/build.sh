@@ -2,7 +2,7 @@
 
 name=aqueduct_addon
 version=v0.1
-folder=./aqueduct
+folder=./aqueduct_addon
 
 mkdir "$folder"
 cp __init__.py "$folder"
